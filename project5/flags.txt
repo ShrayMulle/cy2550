@@ -8,3 +8,4 @@ CY2550_FLAG_LEVEL7{ud3wnoy94xt0zudkwgz6qfu560nu8zuq}
 CY2550_FLAG_LEVEL8{axnjw83m8g4luaihk5pdv401nbajdk1t}
 CY2550_FLAG_LEVEL9{z5ovd61abl0wjkvnqqtl5gdju7xuxjjq}
 CY2550_FLAG_LEVEL10{1w4tt73has4tlwp6knicmog1lm24a1b8}
+CY2550_FLAG_LEVEL11{c7wq6oq69sfmmuz06kuo4g39w6na1gf8}
